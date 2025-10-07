@@ -17,7 +17,7 @@ Este repositório contém meus códigos, anotações e experimentos práticos ba
 
 ## Tecnologias
 
-- Python 3.x  
+- Python
 - [Scikit-Learn](https://scikit-learn.org/)  
 - [Keras](https://keras.io/)  
 - [TensorFlow](https://www.tensorflow.org/)  
