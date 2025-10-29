@@ -1,4 +1,3 @@
-# João Guilherme
 # Mão na Massa: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow
 Este repositório contém meus códigos, anotações e experimentos práticos baseados no livro 
 **"Mão na Massa: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow"**. O objetivo é organizar meu aprendizado de Machine Learning de forma prática e aplicável.
